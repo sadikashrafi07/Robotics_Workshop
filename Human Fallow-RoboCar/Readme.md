@@ -61,8 +61,5 @@ This project demonstrates the integration of multiple sensors and motor control 
 ## Motivation
 The primary motivation for building this project was to explore the capabilities of autonomous robots in following a human and avoiding obstacles. By developing a versatile Human Follow-RoboCar, the project aims to provide a practical learning experience in the field of robotics and embedded systems.
 
-## Wiring Diagram
-![Wiring Diagram](circuit.jpg)
-
 ## Feedback
 We value your input and are committed to providing you with the best possible experience. If you have any suggestions, feedback, or if there's an idea you'd like us to consider, please don't hesitate to reach out to us at angadimohammadsadiq@gmail.com.
