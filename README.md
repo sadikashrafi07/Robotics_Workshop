@@ -3,11 +3,15 @@
 
 <img src="https://i.ibb.co/CMvHfnY/87.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/StWcSqG/Bluetooth1.jpg" width="400"/>
 
+![Robo](https://i.ibb.co/CMvHfnY/87.jpg)  &nbsp;&nbsp; ![Robo](https://i.ibb.co/StWcSqG/Bluetooth1.jpg" width="400)
+
 <img src="https://i.ibb.co/L1BcYPW/IMG-20240405-120655.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/NFR3fmM/91.jpg" width="400"/>
 
 <img src="https://i.ibb.co/4Fm6Bq4/78.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/3Y3y2Sv/IMG-20240405-125825.jpg" width="400"/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzcjF0emk5d2hlN2tjemZ4dGdscXI5cG5yd3J3cWE1aWg4M3cyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzPHo1w98lkZjtynjS/giphy-downsized-large.gif" height="30%" width="30%">
+
+![Robo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBhZWJ2MWNvMnpsMWY2bnVjY2dpODM3aTNsamxhZHJhYm10NzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fluCn2cK6K8bpiWw0i/giphy-downsized-large.gif)
 
 # Robotics Workshop
 
