@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0NTdmeWQwY2R0cjRqdjRvaDFveGp4cTdqMHpwdHlrM21kOWd3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fluCn2cK6K8bpiWw0i/giphy-downsized-large.gif" height="50%" width="50%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBhZWJ2MWNvMnpsMWY2bnVjY2dpODM3aTNsamxhZHJhYm10NzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fluCn2cK6K8bpiWw0i/giphy-downsized-large.gif" height="50%" width="50%">
 
 <img src="https://i.ibb.co/CMvHfnY/87.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/StWcSqG/Bluetooth1.jpg" width="400"/>
 
