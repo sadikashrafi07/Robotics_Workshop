@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBhZWJ2MWNvMnpsMWY2bnVjY2dpODM3aTNsamxhZHJhYm10NzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fluCn2cK6K8bpiWw0i/giphy-downsized-large.gif" height="30%" width="30%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampldHRmY2xyMWxuYm5sOGNlODk1amt2d2o2NHV6ZDhpeXlzNWZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FwAjXCwCMCPED6ZsK8/giphy-downsized-large.gif" height="30%" width="30%">
 
 <img src="https://i.ibb.co/CMvHfnY/87.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/StWcSqG/Bluetooth1.jpg" width="400"/>
 
@@ -9,9 +9,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzcjF0emk5d2hlN2tjemZ4dGdscXI5cG5yd3J3cWE1aWg4M3cyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzPHo1w98lkZjtynjS/giphy-downsized-large.gif" height="30%" width="30%">
 
-![Robo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBhZWJ2MWNvMnpsMWY2bnVjY2dpODM3aTNsamxhZHJhYm10NzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fluCn2cK6K8bpiWw0i/giphy-downsized-large.gif)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBhZWJ2MWNvMnpsMWY2bnVjY2dpODM3aTNsamxhZHJhYm10NzdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fluCn2cK6K8bpiWw0i/giphy-downsized-large.gif" height="30%" width="30%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampldHRmY2xyMWxuYm5sOGNlODk1amt2d2o2NHV6ZDhpeXlzNWZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FwAjXCwCMCPED6ZsK8/giphy-downsized-large.gif" height="30%" width="30%">
 
 # Robotics Workshop
 
