@@ -53,8 +53,5 @@ This project addresses the challenge of autonomous navigation in robotics by fol
 ## Motivation
 The primary motivation for building this project was to explore the basics of autonomous robotics and sensor integration. By developing a simple yet functional line-following robot, the project aims to provide a hands-on learning experience in the field of robotics and embedded systems.
 
-## Wiring Diagram
-![Wiring Diagram](circuit.jpg)
-
 ## Feedback
 We value your input and are committed to providing you with the best possible experience. If you have any suggestions, feedback, or if there's an idea you'd like me to consider, please don't hesitate to reach out to me at angadimohammadsadiq@gmail.com
