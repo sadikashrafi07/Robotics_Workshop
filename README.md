@@ -9,8 +9,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzcjF0emk5d2hlN2tjemZ4dGdscXI5cG5yd3J3cWE1aWg4M3cyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzPHo1w98lkZjtynjS/giphy-downsized-large.gif" height="30%" width="30%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampldHRmY2xyMWxuYm5sOGNlODk1amt2d2o2NHV6ZDhpeXlzNWZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FwAjXCwCMCPED6ZsK8/giphy-downsized-large.gif" height="30%" width="30%">
-
 # Robotics Workshop
 
 Welcome to the GitHub repository for the Robotics Workshop, a two-day intensive program where participants delved into the realm of robotics using Arduino Uno. Throughout the workshop, attendees gained hands-on experience in coding and building various robotic projects. Here, you will find the codes and resources for the four projects developed during the workshop:
