@@ -58,8 +58,5 @@ This project enables remote control of a robotic car via Bluetooth, demonstratin
 ## Motivation
 The primary motivation for building this project was to explore the capabilities of remote-controlled robotics and wireless communication. By developing a versatile Bluetooth-controlled RoboCar, the project aims to provide a practical learning experience in the field of robotics and embedded systems.
 
-## Wiring Diagram
-![Wiring Diagram](circuit.jpg)
-
 ## Feedback
 We value your input and are committed to providing you with the best possible experience. If you have any suggestions, feedback, or if there's an idea you'd like me to consider, please don't hesitate to reach out to me at angadimohammadsadiq@gmail.com.
