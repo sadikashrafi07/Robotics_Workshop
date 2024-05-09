@@ -3,8 +3,6 @@
 
 <img src="https://i.ibb.co/CMvHfnY/87.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/StWcSqG/Bluetooth1.jpg" width="400"/>
 
-![Robo](https://i.ibb.co/CMvHfnY/87.jpg)  &nbsp;&nbsp; ![Robo](https://i.ibb.co/StWcSqG/Bluetooth1.jpg" width="400)
-
 <img src="https://i.ibb.co/L1BcYPW/IMG-20240405-120655.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/NFR3fmM/91.jpg" width="400"/>
 
 <img src="https://i.ibb.co/4Fm6Bq4/78.jpg" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/3Y3y2Sv/IMG-20240405-125825.jpg" width="400"/>
